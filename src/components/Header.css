@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  align-items: center;
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 24px;
+}
+
+.header__title {
+  margin-left: 8px;
+}
+
+.logo {
+  width: 32px;
+}

@@ -1,0 +1,39 @@
+.tabDndContainer {
+  position: relative;
+  display: flex;
+  align-items: center;
+  height: 28px;
+  box-sizing: border-box;
+  border-radius: 3px;
+}
+
+.tabDndContainer_placeholder {
+  height: 8px;
+}
+
+.tab {
+  display: flex;
+  align-items: center;
+  padding: 4px 0;
+  position: relative;
+  left: -24px;
+}
+
+.tab__delete {
+  visibility: hidden;
+  width: 20px;
+  margin-right: 4px;
+}
+
+.tab:hover .tab__delete {
+  visibility: visible;
+}
+
+.tab__link {
+  color: #c6c6c6;
+  text-decoration: none;
+}
+
+.tab__link:hover {
+  text-decoration: underline;
+}

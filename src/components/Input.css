@@ -1,0 +1,21 @@
+.input {
+  background: none;
+  border: none;
+  font-weight: 500;
+  font-size: 16px;
+  padding: 0;
+}
+
+.input:focus {
+  outline-color: #d85b00;
+}
+
+.input_add {
+  font-size: inherit;
+  font-weight: inherit;
+  color: #c6c6c6;
+}
+
+.input_add::placeholder {
+  color: #c6c6c6;
+}

@@ -1,0 +1,17 @@
+.btn {
+  color: #d85b00;
+  cursor: pointer;
+}
+
+.btn:hover {
+  text-decoration: underline;
+}
+
+.btn:active {
+  color: #7e3501;
+  filter: none;
+}
+
+.btn_link {
+  text-decoration: none;
+}
