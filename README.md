@@ -22,6 +22,18 @@ I also wanted to give other developers modern, easy-to-read react and typescript
 - React
 - TypeScript
 
+## For local start
+- open chrome://extensions/
+- enable Developer mode
+- unpack ultimate_tab.zip
+- click Load unpacked and chose ultimate_tab folder
+
 ## For start dev
 - run `yarn buildWatch`
-- download the unpacked extension from the `dist` folder
+- open chrome://extensions/
+- enable Developer mode
+- click Load unpacked and chose `dist` folder
+
+## Screenshot
+<img width="1440" alt="image" src="https://github.com/vlapky/ultimate_tab/assets/65808258/f89923d2-b85e-4c66-a59b-6baa955b27ce">
+
