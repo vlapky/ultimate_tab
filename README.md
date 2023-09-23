@@ -4,6 +4,8 @@ The extension was written to replace One Tab by adding features that I need, suc
 
 I also wanted to give other developers modern, easy-to-read react and typescript code so that everyone could make the necessary changes if they wanted.
 
+Chrome Web Store https://chrome.google.com/webstore/detail/ultimate-tab/bhnhojeihciobleldejggepehnhmaokd/
+
 ## Features
 - Toolbar
   - Store all tabs (when clicking on the icon in the toolbar)
